@@ -4,3 +4,9 @@ Here are my entries for the [30DayMapChallenge 2023](https://30daymapchallenge.c
 The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really amazing and inspiring entries.
 
 ![image](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc-2023.png)
+
+
+## Day 1: Points
+
+
+## Day 2: Lines
