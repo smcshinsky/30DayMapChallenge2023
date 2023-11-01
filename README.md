@@ -7,16 +7,18 @@ The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and h
 
 
 ## Day 1:  Points
-Title:
+Title:?
 
-Twitter:
+Twitter: https://twitter.com/smcshinsky/status/1719794671680143542
 
-Map:
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/09fb0c84-4290-464e-a97e-2098c5f01108" height="500" />
+
+
 
 ## Day 2:  Lines
 Title:
 
-Twitter:
+Twitter: 
 
 Map:
 
