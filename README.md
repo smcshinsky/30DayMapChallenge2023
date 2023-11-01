@@ -20,7 +20,8 @@ Leader Board will be updated soon
 ## Day 1:  Points
 Title:?
 
-Twitter: https://twitter.com/smcshinsky/status/1719794671680143542
+Twitter: <a href="https://twitter.com/smcshinsky/status/1719794671680143542"> https://twitter.com/smcshinsky/status/1719794671680143542</a>
+
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/09fb0c84-4290-464e-a97e-2098c5f01108" height="500" />
 
