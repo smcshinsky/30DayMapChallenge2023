@@ -10,11 +10,15 @@ Submit your guesses [HERE](https://forms.gle/imKxpKawxJ6SqrwG9)
 
 Please only submit 1 guess per day.
 
-1 point just for playing
-5 points for getting it right
+1 point just for playing<br>
+5 points for getting it right<br>
 10 points for being the first to get it right.
 
-Leader Board will be updated soon
+
+Leader Board updated: November 1
+
+<img width="234" alt="Capture" src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/618deb7f-cc81-4338-abaf-09d0618be096">
+
 
 
 ## Day 1:  Points
