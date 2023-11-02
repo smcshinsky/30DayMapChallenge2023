@@ -15,11 +15,7 @@ Please only submit 1 guess per day.
 10 points for being the first to get it right.
 
 
-Leader Board updated: November 1
-
-<img width="234" alt="Capture" src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/618deb7f-cc81-4338-abaf-09d0618be096">
-
-
+[LIVE RESULTS HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIMr3ChvoGqUwEpN6WCYWpASmzNSEpcwI0RkuQtLZSxEbW6YPpfSemZvR2qXX3F_GwlCigzrRCWZyd/pubhtml?gid=1193210523&single=true)
 
 ## Day 1:  Points
 Title: Addresses
