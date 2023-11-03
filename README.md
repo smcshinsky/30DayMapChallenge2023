@@ -44,7 +44,7 @@ Title:
 Twitter: https://x.com/smcshinsky/status/1720443068237951391?s=46&t=5a5dVsxYhpmVvDCWrfUuxw
 
 Map coming soon. check twitter for post. 
-<img src="" height="500" />https://drive.google.com/file/d/1GL7fivVGm39Fg7AND7GyCECb1nsgo3jG/view?usp=drivesdk</a>
+<img src="https://drive.google.com/file/d/1GL7fivVGm39Fg7AND7GyCECb1nsgo3jG/view?usp=drivesdk" height="500" />
 
 
 ## Day 4:  A bad map
