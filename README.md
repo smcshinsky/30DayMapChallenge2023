@@ -43,6 +43,7 @@ Title:
 
 Twitter: https://x.com/smcshinsky/status/1720443068237951391?s=46&t=5a5dVsxYhpmVvDCWrfUuxw
 
+Map coming soon. check twitter for post. 
 <img src="" height="500" /></a>
 
 
