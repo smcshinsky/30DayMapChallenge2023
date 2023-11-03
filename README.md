@@ -31,7 +31,7 @@ Twitter:  https://twitter.com/smcshinsky/status/1719794671680143542
 
 
 ## Day 2:  Lines
-Title:
+Title: Railways
 
 Twitter: https://twitter.com/smcshinsky/status/1720087764446953938
 
@@ -41,7 +41,7 @@ Twitter: https://twitter.com/smcshinsky/status/1720087764446953938
 ## Day 3:  Polygons
 Title:
 
-Twitter: 
+Twitter: https://x.com/smcshinsky/status/1720443068237951391?s=46&t=5a5dVsxYhpmVvDCWrfUuxw
 
 <img src="" height="500" /></a>
 
