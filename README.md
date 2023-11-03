@@ -12,7 +12,7 @@ Please only submit 1 guess per day.
 
 - 1 point just for playing<br>
 - 5 points for getting it right<br>
-- 10 points for being the first to get it right.
+- 10 points for being the **FIRST** to get it right.
 
 
 
