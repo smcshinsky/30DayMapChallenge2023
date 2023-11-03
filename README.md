@@ -23,7 +23,7 @@ Please only submit 1 guess per day.
 ## Day 1:  Points
 Title: Addresses
 
-Twitter:  https://twitter.com/smcshinsky/status/1719794671680143542
+[Twitter](https://twitter.com/smcshinsky/status/1719794671680143542)
 
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/09fb0c84-4290-464e-a97e-2098c5f01108" height="500" />
@@ -33,7 +33,7 @@ Twitter:  https://twitter.com/smcshinsky/status/1719794671680143542
 ## Day 2:  Lines
 Title: Railways
 
-Twitter: https://twitter.com/smcshinsky/status/1720087764446953938
+[Twitter](https://twitter.com/smcshinsky/status/1720087764446953938)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/9f74de56-0542-437c-8de5-e55dd5cf3e29" height="500" />
 
@@ -49,184 +49,184 @@ Title:
 ## Day 4:  A bad map
 Title:
 
-Twitter:
+Twitter
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 5:  Analog Map
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 6:  Asia
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 7:  Navigation
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 8:  Africa
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 9:  Hexagons
 Title:
 
 Twitter:
 
-Map:
+<img src="   " height="500" />
 
 ## Day 10:  North America
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 11:  Retro
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 12:  South America
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 13:  Choropleth
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 14:  Europe
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 15:  OpenStreetMap
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 16:  Oceania
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 17:  Flow
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 18:  Atmosphere
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 19:  5-minute map
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 20:  Outdoors
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 21:  Raster
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 22:  North is not always up
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 23:  3D
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 24:  Black & white
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 25:  Antarctica
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 26:  Minimal
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 27:  Dot
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 28:  Is this a chart or a map?
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 29:  Population
 Title:
 
 Twitter:
 
-<img src="" height="500" /></a>
+<img src="   " height="500" />
 
 ## Day 30:  "My favorite.."
 Title:
