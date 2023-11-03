@@ -41,7 +41,7 @@ Twitter: https://twitter.com/smcshinsky/status/1720087764446953938
 ## Day 3:  Polygons
 Title:
 
-Twitter: https://x.com/smcshinsky/status/1720443068237951391?s=46&t=5a5dVsxYhpmVvDCWrfUuxw
+[Twitter](https://x.com/smcshinsky/status/1720443068237951391?s=46&t=5a5dVsxYhpmVvDCWrfUuxw)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/3cf7b2fa-ca2b-48e7-a4c4-72b3b3afb2f0" height="500" />
 
