@@ -39,7 +39,7 @@ Title: Railways
 
 
 ## Day 3:  Polygons
-Title:
+Title: Voting Precincts
 
 [Twitter](https://twitter.com/smcshinsky/status/1720445874025947157)
 
@@ -49,9 +49,9 @@ Title:
 ## Day 4:  A bad map
 Title:
 
-Twitter
+[Twitter](https://x.com/smcshinsky/status/1720805054922592350?s=46&t=5a5dVsxYhpmVvDCWrfUuxw)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/683bbec0-394e-4f93-a201-0cf9314f8821" height="500" />
 
 ## Day 5:  Analog Map
 Title:
