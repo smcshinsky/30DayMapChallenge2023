@@ -6,13 +6,13 @@ The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and h
 ![image](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc-2023.png)
 
 
-Submit your guesses [HERE](https://forms.gle/imKxpKawxJ6SqrwG9) <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/4737f3be-4df6-4cd3-8fbe-857741ca4d84" width="30"/>
+## Submit your guesses [HERE](https://forms.gle/imKxpKawxJ6SqrwG9) <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/4737f3be-4df6-4cd3-8fbe-857741ca4d84" width="30"/>
 
 Please only submit 1 guess per day.
 
 - 1 point just for playing<br>
 - 5 points for getting it right<br>
-- 10 points for being the **FIRST** to get it right.
+- **Bonus 5 points**  for being the **FIRST** to get it right.
 
 
 
