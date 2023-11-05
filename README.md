@@ -47,7 +47,7 @@ Title: Voting Precincts
 
 
 ## Day 4:  A bad map
-Title:
+Title: Bad-minton 
 
 [Twitter](https://x.com/smcshinsky/status/1720805054922592350?s=46&t=5a5dVsxYhpmVvDCWrfUuxw)
 
@@ -58,7 +58,7 @@ Title:
 
 Twitter:
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/345543d6-3db2-45f5-8217-52693dc68680" height="500" />
 
 ## Day 6:  Asia
 Title:
