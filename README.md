@@ -54,7 +54,7 @@ Title: Bad-minton
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/683bbec0-394e-4f93-a201-0cf9314f8821" height="500" />
 
 ## Day 5:  Analog Map
-Title:
+Title: Time Zones
 
 Twitter:
 
@@ -65,7 +65,7 @@ Title:
 
 Twitter:
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/f0a5a221-8dbe-49cf-aa87-2a29ff57c689" height="500" />
 
 ## Day 7:  Navigation
 Title:
