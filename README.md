@@ -56,58 +56,58 @@ Title: Bad-minton
 ## Day 5:  Analog Map
 Title: Time Zones
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1721181871512469617)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/345543d6-3db2-45f5-8217-52693dc68680" height="500" />
 
 ## Day 6:  Asia
-Title:
+Title: Silk Road
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1721545044467827178)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/f0a5a221-8dbe-49cf-aa87-2a29ff57c689" height="500" />
 
 ## Day 7:  Navigation
-Title:
+Title: Delta Airlines
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1721871354348126321)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/4775d401-7fa5-46ce-97a4-73a9b9f36dc6" height="500" />
 
 ## Day 8:  Africa
-Title:
+Title: Sahara Desert
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1722254991199703503)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/a822a128-cd20-4ae1-9ea6-14b678e1e5e4" height="500" />
 
 ## Day 9:  Hexagons
-Title:
+Title: Pirate attacks since 1978
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1722593122754973857)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/829abba5-c162-4e4f-b807-f6a7156c7883" height="500" />
 
 ## Day 10:  North America
-Title:
+Title: Galciers
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1722963423397388748)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/458f3baf-06cb-4411-b882-1a334e0b5d67" height="500" />
 
 ## Day 11:  Retro
-Title:
+Title: War games
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1723362167980769395)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/ea8f46e2-dd66-45f9-a332-21095b5b5a62" height="500" />
 
 ## Day 12:  South America
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1723714210453151809)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/b38e9929-0cad-4d45-a2d0-0f592ee2c2ac" height="500" />
 
 ## Day 13:  Choropleth
 Title:
