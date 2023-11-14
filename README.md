@@ -1,4 +1,4 @@
-# 30 Day Map Challenge 2023
+![Day 14 - Europe](https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/7b1d417a-b6ed-4d6b-9456-4c5768729444)# 30 Day Map Challenge 2023
 Here are my entries for the [30DayMapChallenge 2023](https://30daymapchallenge.com/) that I published on [Twitter](https://twitter.com/smcshinsky) from November 1-30 2023.  
 
 The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really amazing and inspiring entries.
@@ -110,7 +110,7 @@ Title:Uruguay
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/b38e9929-0cad-4d45-a2d0-0f592ee2c2ac" height="500" />
 
 ## Day 13:  Choropleth
-Title:
+Title: Ohio
 
 [Twitter](https://twitter.com/smcshinsky/status/1724071714903236886)
 
@@ -119,9 +119,9 @@ Title:
 ## Day 14:  Europe
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1724450205544956258)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/e936ea16-826f-4bfe-9ba8-06f1c4070e26" height="500" />
 
 ## Day 15:  OpenStreetMap
 Title:
