@@ -1,4 +1,4 @@
-![Day 14 - Europe](https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/7b1d417a-b6ed-4d6b-9456-4c5768729444)# 30 Day Map Challenge 2023
+# 30 Day Map Challenge 2023
 Here are my entries for the [30DayMapChallenge 2023](https://30daymapchallenge.com/) that I published on [Twitter](https://twitter.com/smcshinsky) from November 1-30 2023.  
 
 The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really amazing and inspiring entries.
