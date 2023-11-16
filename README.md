@@ -103,7 +103,7 @@ Title: War games
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/ea8f46e2-dd66-45f9-a332-21095b5b5a62" height="500" />
 
 ## Day 12:  South America
-Title:Uruguay
+Title: Uruguay
 
 [Twitter](https://twitter.com/smcshinsky/status/1723714210453151809)
 
@@ -117,7 +117,7 @@ Title: Ohio
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/c9e1ac6b-3da9-478c-95b6-0628722ceabc" height="500" />
 
 ## Day 14:  Europe
-Title:
+Title: Country Capitals
 
 [Twitter](https://twitter.com/smcshinsky/status/1724450205544956258)
 
@@ -126,9 +126,9 @@ Title:
 ## Day 15:  OpenStreetMap
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1724779044988715256)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/13ad0268-f9e8-436d-a93e-bfffcc5b736c" height="500" />
 
 ## Day 16:  Oceania
 Title:
