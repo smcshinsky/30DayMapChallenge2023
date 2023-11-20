@@ -124,46 +124,46 @@ Title: Country Capitals
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/e936ea16-826f-4bfe-9ba8-06f1c4070e26" height="500" />
 
 ## Day 15:  OpenStreetMap
-Title:
+Title: Military Grounds
 
 [Twitter](https://twitter.com/smcshinsky/status/1724779044988715256)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/13ad0268-f9e8-436d-a93e-bfffcc5b736c" height="500" />
 
 ## Day 16:  Oceania
-Title:
+Title: Shipping Routes
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1725142683885150268)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/cd674a30-b858-4967-9c84-76d3e91139bf" height="500" />
 
 ## Day 17:  Flow
-Title:
+Title: East Australian Current - EAC
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1725522738813735129)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/3e1b864f-4222-4dfa-bddd-91536d9aa036" height="500" />
 
 ## Day 18:  Atmosphere
-Title:
+Title: Jet Stream
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1725871223702511857)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/b6a4632d-5f93-4b58-b960-b45f5e29046b" height="500" />
 
 ## Day 19:  5-minute map
-Title:
+Title: Dominos
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1726267757556326764)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/d0b1a0e8-ab5c-4d43-96ea-78103be85e4d" height="500" />
 
 ## Day 20:  Outdoors
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1726609374729338960)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/ea129c54-c044-4817-8618-6bc43b8add77" height="500" />
 
 ## Day 21:  Raster
 Title:
