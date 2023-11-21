@@ -159,7 +159,7 @@ Title: Dominos - 77.3% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/d0b1a0e8-ab5c-4d43-96ea-78103be85e4d" height="500" />
 
 ## Day 20:  Outdoors
-Title:
+Title: Yellowstone - 83.3% Correct
 
 [Twitter](https://twitter.com/smcshinsky/status/1726609374729338960)
 
@@ -168,9 +168,9 @@ Title:
 ## Day 21:  Raster
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1726970453464662504)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/60939602-b79a-43dd-89a4-57bced144bc6" height="500" />
 
 ## Day 22:  North is not always up
 Title:
