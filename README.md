@@ -166,7 +166,7 @@ Title: Yellowstone - 83.3% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/ea129c54-c044-4817-8618-6bc43b8add77" height="500" />
 
 ## Day 21:  Raster
-Title:
+Title: 1993
 
 [Twitter](https://twitter.com/smcshinsky/status/1726970453464662504)
 
@@ -175,9 +175,9 @@ Title:
 ## Day 22:  North is not always up
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1727326553271590974)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/4daf55e3-eb77-4aeb-8638-cae88e361a63" height="500" />
 
 ## Day 23:  3D
 Title:
