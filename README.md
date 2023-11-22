@@ -166,7 +166,7 @@ Title: Yellowstone - 83.3% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/ea129c54-c044-4817-8618-6bc43b8add77" height="500" />
 
 ## Day 21:  Raster
-Title: 1993
+Title: 1993 - 42.9% Correct
 
 [Twitter](https://twitter.com/smcshinsky/status/1726970453464662504)
 
