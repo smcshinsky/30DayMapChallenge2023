@@ -173,65 +173,65 @@ Title: 1993 - 42.9% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/60939602-b79a-43dd-89a4-57bced144bc6" height="500" />
 
 ## Day 22:  North is not always up
-Title:
+Title: Left - 73.9% Correct
 
 [Twitter](https://twitter.com/smcshinsky/status/1727326553271590974)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/4daf55e3-eb77-4aeb-8638-cae88e361a63" height="500" />
 
 ## Day 23:  3D
-Title:
+Title: Crater Lake - 96% Correct
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1727712925937283126)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/73f46a5c-7a75-402b-a3e5-119b01478da1" height="500" />
 
 ## Day 24:  Black & white
-Title:
+Title: Walmart - 64.7% Correct
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1728058354977636812)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/15ab91f5-55a2-4b71-8786-16ce5fda301c" height="500" />
 
 ## Day 25:  Antarctica
 Title:
 
-Twitter:
+[Twitter]
 
 <img src="   " height="500" />
 
 ## Day 26:  Minimal
-Title:
+Title: Romania - 82.6% Correct
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1728795567126381018)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/971ba939-b198-44df-a013-79e8bebc1cac" height="500" />
 
 ## Day 27:  Dot
 Title:
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1729156214943293854)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/b228673f-d1ca-42e2-81df-134e8c27148f" height="500" />
 
 ## Day 28:  Is this a chart or a map?
-Title:
+Title: Crime Rates - 79.2% Correct
 
-Twitter:
+[Twitter](https://twitter.com/smcshinsky/status/1728438976355373565)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/6b131c6c-ddbf-4f08-94ba-9bac9361ad9d" height="500" />
 
 ## Day 29:  Population
 Title:
 
-Twitter:
+[Twitter]
 
 <img src="   " height="500" />
 
 ## Day 30:  "My favorite.."
 Title:
 
-Twitter:
+[Twitter]
 
 <img src="" height="500" /></a>
 
