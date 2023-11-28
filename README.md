@@ -196,9 +196,9 @@ Title: Walmart - 64.7% Correct
 ## Day 25:  Antarctica
 Title:
 
-[Twitter]
+[Twitter](https://twitter.com/smcshinsky/status/1729501196258312352)
 
-<img src="   " height="500" />
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/f8dfe12e-f329-46fd-8792-7902eac572c1" height="500" />
 
 ## Day 26:  Minimal
 Title: Romania - 82.6% Correct
@@ -208,7 +208,7 @@ Title: Romania - 82.6% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/971ba939-b198-44df-a013-79e8bebc1cac" height="500" />
 
 ## Day 27:  Dot
-Title:
+Title: NBA - 65.4% Correct
 
 [Twitter](https://twitter.com/smcshinsky/status/1729156214943293854)
 
