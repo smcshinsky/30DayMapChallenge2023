@@ -194,7 +194,7 @@ Title: Walmart - 64.7% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/15ab91f5-55a2-4b71-8786-16ce5fda301c" height="500" />
 
 ## Day 25:  Antarctica
-Title: Icebergs - 75% Correct
+Title: Icebergs - 58.8% Correct
 
 [Twitter](https://twitter.com/smcshinsky/status/1729501196258312352)
 
