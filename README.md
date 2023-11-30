@@ -222,18 +222,18 @@ Title: Crime Rates - 79.2% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/6b131c6c-ddbf-4f08-94ba-9bac9361ad9d" height="500" />
 
 ## Day 29:  Population
-Title:
+Title: Humans - 71.4% Correct
 
-[Twitter]
+[Twitter](https://twitter.com/smcshinsky/status/1729861295426650410)
 
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/9b74e5f5-eabf-4691-aabd-231f01ffd412" height="500" />
 
 ## Day 30:  "My favorite.."
-Title:
+Title: 
 
-[Twitter]
+[Twitter](https://twitter.com/smcshinsky/status/1730219773059895520)
 
-<img src="" height="500" /></a>
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/19c19c3b-9d07-4fec-bcc9-c3b48731c6d1"height="500" /></a>
 
 
 
