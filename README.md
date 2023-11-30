@@ -233,7 +233,7 @@ Title:
 
 [Twitter](https://twitter.com/smcshinsky/status/1730219773059895520)
 
-<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/19c19c3b-9d07-4fec-bcc9-c3b48731c6d1"height="500" /></a>
+<img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/19c19c3b-9d07-4fec-bcc9-c3b48731c6d1" height="500" />
 
 
 
