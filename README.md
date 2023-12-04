@@ -229,7 +229,7 @@ Title: Humans - 71.4% Correct
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/9b74e5f5-eabf-4691-aabd-231f01ffd412" height="500" />
 
 ## Day 30:  "My favorite.."
-Title: 
+Title: Drinking Fountains - 40% Correct
 
 [Twitter](https://twitter.com/smcshinsky/status/1730219773059895520)
 
