@@ -21,7 +21,7 @@ Please only submit 1 guess per day.
 <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/1c6decfa-0f05-4aaa-8f27-17854f91e244" width="30"/>  **[LIVE RESULTS HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIMr3ChvoGqUwEpN6WCYWpASmzNSEpcwI0RkuQtLZSxEbW6YPpfSemZvR2qXX3F_GwlCigzrRCWZyd/pubhtml?gid=1193210523&single=true)** <img src="https://github.com/smcshinsky/30DayMapChallenge2023/assets/1392717/65ced6e3-60c3-4ae3-a848-721fedfc3164" width="30"/>
 
 ## Day 1:  Points
-Title: Addresses - 66.7% Correct  <!--- just --->
+Title: <!---Addresses---> - 66.7% Correct  <!--- just --->
 
 [Twitter](https://twitter.com/smcshinsky/status/1719794671680143542)
 
